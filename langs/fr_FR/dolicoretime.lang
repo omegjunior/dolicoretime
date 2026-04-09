@@ -1,0 +1,10 @@
+# Copyright (C) 2026 Omega Junior <omegajunior.apps@gmail.com>
+
+ModuleDoliCoreTimeName = DoliCoreTime
+ModuleDoliCoreTimeDesc = Module socle de gestion transverse des dates et fuseaux horaires.
+DoliCoreTimeDescription = Module socle de gestion transverse des dates et fuseaux horaires.
+DoliCoreTimeSetup = Configuration DoliCoreTime
+DoliCoreTimeSetupPage = Paramètres timezone métier
+BusinessTimezone = Timezone métier
+BusinessTimezoneHelp = Fuseau horaire métier commun utilisé pour les conversions et bornes de période des modules socles.
+InvalidTimezone = Timezone invalide.
