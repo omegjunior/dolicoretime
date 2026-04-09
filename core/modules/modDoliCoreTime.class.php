@@ -17,7 +17,7 @@ class modDoliCoreTime extends DolibarrModules
 
 		$this->numero = 501100;
 		$this->rights_class = 'dolicoretime';
-		$this->family = 'technic';
+		$this->family = 'Fred Omega Junior';
 		$this->module_position = '10';
 		$this->name = preg_replace('/^mod/i', '', get_class($this));
 		$this->description = 'DoliCoreTimeDescription';
@@ -25,8 +25,8 @@ class modDoliCoreTime extends DolibarrModules
 		$this->version = '0.1.0';
 		$this->const_name = 'MAIN_MODULE_'.strtoupper($this->name);
 		$this->picto = 'clock';
-		$this->editor_name = 'Omega Junior';
-		$this->editor_url = '';
+		$this->editor_name = 'Fred Omega Junior';
+		$this->editor_url = 'www.linkedin.com/in/frédéric-h-887621160';
 
 		$this->module_parts = array(
 			'triggers' => 0,
